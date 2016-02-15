@@ -17,12 +17,12 @@ While certificates are free for certain uses, there are limitations imposed unle
 ---
 **Previous**:
 
-* [Introduction: Get SSL Certificate (Free) & Enable https on nginx](https://ashishapy.com/get-ssl-certificate-free-enable-https-on-nginx/)
-* [Signup for StartSSL](https://ashishapy.com/signup-for-startssl/)
+* [Introduction: Get SSL Certificate (Free) & Enable https on nginx](https://ashishapy.com/2015/get-ssl-certificate-free-enable-https-on-nginx/)
+* [Signup for StartSSL](https://ashishapy.com/2015/signup-for-startssl/)
 
 **Next**:
 
-[Part 2/2 - Configure SSL on nginx web server](https://ashishapy.com/part-22-configure-nginx-web-server/)
+[Part 2/2 - Configure SSL on nginx web server](https://ashishapy.com/2015/part-22-configure-nginx-web-server/)
 
 ---
 **Synopsis:** 
@@ -33,7 +33,7 @@ C. Private Key & Certificate Signing Request (CSR)
 D. Prepare a unified certificate & protect private key
 
 One needs to signup StartSSL & if you haven't done so for, here is a blog to signup for startSSL.
-[Signup for StartSSL](https://ashishapy.com/signup-for-startssl/). Signup then come back to this post again to continue.
+[Signup for StartSSL](https://ashishapy.com/2015/signup-for-startssl/) . Signup then come back to this post again to continue.
 
 Once you signup & certificate is installed on your browser, StartSSL will be able to authenticate you.
 
@@ -129,4 +129,4 @@ ssl-unified.crt will be certificate for your domain & a subdomain.
 <code>chmod 600 ssl.key</code>
 
 We have ssl.key (Private Key) & ssl-unified.crt (Certificate). Let's configure web server (nginx) to use these two and configure for https along with some other security stuff in 2nd and last part of the series.
-[Part 2/2 - Configure SSL on nginx web server](https://ashishapy.com/part-22-configure-nginx-web-server/)
+[Part 2/2 - Configure SSL on nginx web server](https://ashishapy.com/2015/part-22-configure-nginx-web-server/)

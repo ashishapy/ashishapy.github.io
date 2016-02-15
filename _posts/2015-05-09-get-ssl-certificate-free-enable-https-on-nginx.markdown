@@ -20,7 +20,9 @@ Few days ago, I had setup my own domain & I want to share how I did it.
 
 Next is to make it secure using SSL certificate & enabling https:// for your domain, this is what the blog is all about.
 
-The next two blogs, are going to be ...
+The next three blogs, are going to be ...
 
-* **[Part 1/2 - Get SSL certificate (free)](https://ashishapy.com/part-12-get-ssl-certificate-free/):** I want a totally, 100% free cert so I’m going to use [StartSSL](https://www.startssl.com).
-* **[Part 2/2 - Configure SSL on nginx web server](https://ashishapy.com/part-22-configure-nginx-web-server/):** to use SSL certificate & enable HTTPS along with some other security stuff.
+* **[Signup for StartSSL](https://ashishapy.com/2015/signup-for-startssl/):** Signup before using services of startSSL like generating SSL certificate.
+
+* **[Part 1/2 - Get SSL certificate (free)](https://ashishapy.com/2015/part-12-get-ssl-certificate-free/):** I want a totally, 100% free cert so I’m going to use [StartSSL](https://www.startssl.com).
+* **[Part 2/2 - Configure SSL on nginx web server](https://ashishapy.com/2015/part-22-configure-nginx-web-server/):** to use SSL certificate & enable HTTPS along with some other security stuff.

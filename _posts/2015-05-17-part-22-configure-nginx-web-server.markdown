@@ -11,9 +11,9 @@ The StartSSL certificate is compatible with nginx. Configure ngnix to use it in 
 ---
 Previous:
 
-* [Introduction: Get SSL Certificate (Free) & Enable https on nginx](https://ashishapy.com/get-ssl-certificate-free-enable-https-on-nginx/)
-* [Signup for StartSSL](https://ashishapy.com/signup-for-startssl/)
-* [Part 1/2 - Get SSL certificate (free)](https://ashishapy.com/part-12-get-ssl-certificate-free/)
+* [Introduction: Get SSL Certificate (Free) & Enable https on nginx](https://ashishapy.com/2015/get-ssl-certificate-free-enable-https-on-nginx/)
+* [Signup for StartSSL](https://ashishapy.com/2015/signup-for-startssl/)
+* [Part 1/2 - Get SSL certificate (free)](https://ashishapy.com/2015/part-12-get-ssl-certificate-free/)
 
 ---
 We need to modify nginx.conf file, in my case it is located at /etc/ngnix folder.
