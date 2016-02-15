@@ -1,6 +1,6 @@
 # Site settings
 title: Ashish Pandey
-description: 'Ashish Pandey - Amused at technology'
+description: 'Amused at technology'
 url: 'https://ashishapy.com'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -12,7 +12,6 @@ author:
   twitter_username: ashishapy
   facebook_username: ashishapy
   github_username:  ashishapy
-  linkedin_username:  ashishapy
 
 defaults:
   -

@@ -1,0 +1,26 @@
+---
+layout: post
+title: 'Introduction: Get SSL Certificate (Free) & Enable https on nginx'
+date: '2015-05-09 09:58:01'
+---
+
+So, you got your domain up & working, let's say, it is http://yourDomain.com, Great!!!
+But wait! isn't https:// ? No problem, you must not be dealing with any private or sensitive data of your business and your customer.
+
+What!!! You are!!! 
+Not cool, HTTPS is secure, but HTTP is always vulnerable to eavesdropping attacks where hackers access sensitive information and website accounts. So let's do HTTPS.
+
+Few days ago, I had setup my own domain & I want to share how I did it.
+
+1. Register my domain name on godaddy
+2. Use AWS for Route 53, S3, Security Group, Elastic IP & of course EC2 instance. I am using [AWS Free Tier](http://aws.amazon.com/free/).
+3. Install all necessary softwares on EC2 instance. I installed nginx web server on EC2 instance & configured as required.
+4. Using Route 53 to configure the DNS records to point our domain at our site.
+5. Open browser & enter http://yourDomain.com. Bingo! everything works as expected. But it is not secure, https:// enabled.
+
+Next is to make it secure using SSL certificate & enabling https:// for your domain, this is what the blog is all about.
+
+The next two blogs, are going to be ...
+
+* **[Part 1/2 - Get SSL certificate (free)](https://ashishapy.com/part-12-get-ssl-certificate-free/):** I want a totally, 100% free cert so I’m going to use [StartSSL](https://www.startssl.com).
+* **[Part 2/2 - Configure SSL on nginx web server](https://ashishapy.com/part-22-configure-nginx-web-server/):** to use SSL certificate & enable HTTPS along with some other security stuff.
