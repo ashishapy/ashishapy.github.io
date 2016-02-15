@@ -1,0 +1,39 @@
+# Site settings
+title: Ashish Pandey
+description: 'Ashish Pandey - Amused at technology'
+url: 'https://ashishapy.com'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Ashish Pandey'
+  email: ashish@ashishapy.com
+  twitter_username: ashishapy
+  facebook_username: ashishapy
+  github_username:  ashishapy
+  linkedin_username:  ashishapy
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
