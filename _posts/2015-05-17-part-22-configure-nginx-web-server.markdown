@@ -2,6 +2,8 @@
 layout: post
 title: Part 2/2 - Configure SSL on nginx web server
 date: '2015-05-17 19:08:04'
+categories: [Security]
+tags: [Nginx, SSL]
 ---
 
 nginx (pronounced engine-x) is a free, open-source, light-weight, high-performance, load balancer, HTTP cache, and a web server.

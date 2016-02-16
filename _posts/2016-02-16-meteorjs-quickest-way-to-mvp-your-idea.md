@@ -1,8 +1,8 @@
 ---
 title:  "MeteorJS: Quickest way to MVP your idea!"
 date:   2016-02-16 01:45:23
-categories: [webapp]
-tags: [meteor]
+categories: [Webapp]
+tags: [Meteor]
 ---
 
 This is the era of entrepreneurs and startups. With the launch of #StartUpIndia #StandUpIndia policies by 

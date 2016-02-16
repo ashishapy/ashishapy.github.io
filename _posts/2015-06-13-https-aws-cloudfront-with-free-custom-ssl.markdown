@@ -2,6 +2,8 @@
 layout: post
 title: AWS https CloudFront with Free Custom SSL
 date: '2015-06-13 08:48:15'
+categories: [Security]
+tags: [AWS, SSL]
 ---
 
 I wanted to deliver images on my website through a secure CDN (in case of AWS, it is CloudFront) to improve performance of my website. 

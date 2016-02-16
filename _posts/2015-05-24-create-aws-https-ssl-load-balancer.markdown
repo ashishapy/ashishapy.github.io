@@ -2,6 +2,8 @@
 layout: post
 title: Create AWS Https / SSL Load Balancer
 date: '2015-05-24 03:31:00'
+categories: [Security]
+tags: [AWS, SSL]
 ---
 
 I got class 1 SSL certificate free from [StartSSL](https://www.startssl.com/) for my domain. 

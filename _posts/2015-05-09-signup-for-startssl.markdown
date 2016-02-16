@@ -2,6 +2,8 @@
 layout: post
 title: Signup for StartSSL
 date: '2015-05-09 20:51:29'
+categories: [Security]
+tags: [SSL]
 ---
 
 We need to signup before we start using services of startSSL like generating SSL certificate.

@@ -2,6 +2,8 @@
 layout: post
 title: Part 1/2 - Get SSL certificate (free)
 date: '2015-05-13 08:05:53'
+categories: [Security]
+tags: [SSL]
 ---
 
 I want a totally, 100% free certificate so I’m going to use [StartSSL](https://www.startssl.com/) class 1 certificate. Before you go ahead, please check StartSSL / StartCom reviews and their policies (recommended).

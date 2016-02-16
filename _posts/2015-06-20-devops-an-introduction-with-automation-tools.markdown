@@ -2,6 +2,8 @@
 layout: post
 title: 'DevOps: An Introduction with Automation Tools'
 date: '2015-06-20 15:03:00'
+categories: [DevOps]
+tags: [DevOps, Automation Tools]
 ---
 
 I have been hearing about DevOps a lot and I thought to check it out, what is this new bird. I am tempted to try out at least one tool in each of its categories. If you like it, do leave your comment. 

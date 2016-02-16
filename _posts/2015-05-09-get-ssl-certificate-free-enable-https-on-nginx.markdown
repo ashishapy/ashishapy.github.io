@@ -2,6 +2,8 @@
 layout: post
 title: 'Introduction: Get SSL Certificate (Free) & Enable https on nginx'
 date: '2015-05-09 09:58:01'
+categories: [Security]
+tags: [SSL]
 ---
 
 So, you got your domain up & working, let's say, it is http://yourDomain.com, Great!!!
