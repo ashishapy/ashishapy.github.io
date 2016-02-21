@@ -1,7 +1,7 @@
 # Site settings
 title: Ashish Pandey
 description: 'Amused at technology'
-url: 'https://ashishapy.com'
+url: 'https://www.ashishapy.com'
 baseurl: '/'
 google_analytics: 'UA-64427924-1'
 disqus_shortname: 'ashishapy'
